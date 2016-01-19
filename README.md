@@ -1,6 +1,6 @@
 # liferay Emoticons Free Library
 
-Sleaping | Wink | Right Left 
+Sleeping | Wink | Right Left 
 -------- | ---- | ----------
 <img src="https://github.com/marcoscv-work/liferay-emoticons/blob/master/x2/zZZ_x2.gif" alt="alt text" width="200"> | <img src="https://github.com/marcoscv-work/liferay-emoticons/blob/master/x2/Wink_x2.gif" alt="alt text" width="200"> | <img src="https://github.com/marcoscv-work/liferay-emoticons/blob/master/x2/RightLeft_x2.gif" alt="alt text" width="230">
 [1x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/original/zZZ.gif) - [2x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/x2/zZZ_x2.gif) - [4x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/x4/zZZ_x4.gif) | [1x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/original/Wink.gif) - [2x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/x2/Wink_x2.gif) - [4x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/x4/Wink_x4.gif) | [1x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/original/RightLeft.gif) - [2x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/x2/RightLeft_x2.gif) - [4x](https://github.com/marcoscv-work/liferay-emoticons/blob/master/x4/RightLeft_x4.gif)
